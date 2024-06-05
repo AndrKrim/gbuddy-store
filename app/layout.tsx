@@ -7,7 +7,7 @@ import Navbar from '@/components/navbar'
 const font = Urbanist({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'TiGors',
+  title: 'GBUDDY',
   description: 'Your Favorite Batagor',
 }
 

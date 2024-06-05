@@ -39,7 +39,7 @@ const Modal: React.FC<ModalProps> = ({
                     <IconButton onClick={onClose} icon={<X size={15} />} />
                   </div>
                   {children}
-                </div> 
+                </div>
               </Dialog.Panel>
             </Transition.Child>
           </div>
